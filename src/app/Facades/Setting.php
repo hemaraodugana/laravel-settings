@@ -1,9 +1,9 @@
 <?php
 
-namespace PREPR\Settings\App\Facades;
+namespace PREPRV2\Settings\App\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use PREPR\Settings\App\SettingsHelper;
+use PREPRV2\Settings\App\SettingsHelper;
 
 class Setting extends Facade
 {

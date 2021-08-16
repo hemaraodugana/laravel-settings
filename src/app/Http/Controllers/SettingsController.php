@@ -1,12 +1,12 @@
 <?php
 
-namespace PREPR\Settings\App\Http\Controllers;
+namespace PREPRV2\Settings\App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
-use PREPR\Settings\App\Http\Requests\SettingRequest;
-use PREPR\Settings\App\Setting;
+use PREPRV2\Settings\App\Http\Requests\SettingRequest;
+use PREPRV2\Settings\App\Setting;
 
 class SettingsController extends Controller
 {

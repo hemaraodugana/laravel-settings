@@ -1,6 +1,6 @@
 <?php
 
-namespace PREPR\Settings\App\Http\Requests;
+namespace PREPRV2\Settings\App\Http\Requests;
 
 
 use Illuminate\Foundation\Http\FormRequest;
