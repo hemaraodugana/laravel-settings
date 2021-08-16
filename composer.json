@@ -1,0 +1,20 @@
+{
+    "name": "prepr/laravel-settings",
+    "description": "Simple Settings package for laravel application for composer version 2",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prepr\\LaravelSettings\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hemaro",
+            "email": "hemaro@aistechnolabs.biz"
+        }
+    ],
+    "minimum-stability": "stable"
+}
