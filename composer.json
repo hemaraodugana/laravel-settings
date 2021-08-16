@@ -1,26 +1,26 @@
 {
-  "name": "prepr/laravel-settings",
-  "description": "Simple Settings package for laravel application",
-  "keywords": [
+    "name": "prepr/laravel-settings",
+    "description": "Simple Settings package for laravel application for composer version 2",
+    "keywords": [
     "Laravel",
     "Settings"
   ],
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Praveen S",
-      "email": "praveen@prepr.org"
-    }
-  ],
-  "autoload": {
-    "psr-4": {
-      "PREPR\\Settings\\": "src/"
-    }
-  },
-  "minimum-stability": "stable",
-  "require": {
-    "php": ">=5.6.4"
-  },
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prepr\\LaravelSettings\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hemaro",
+            "email": "hemaro@aistechnolabs.biz"
+        }
+    ],
+
   "extra": {
     "laravel": {
       "providers": [
@@ -30,5 +30,6 @@
         "Settings": "PREPR\\Settings\\App\\Facades\\Setting"
       }
     }
-  }
+  },
+    "minimum-stability": "stable"
 }
