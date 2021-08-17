@@ -1,0 +1,24 @@
+{
+    "name": "hemarao/laravel-settings",
+    "description": "Simple Settings package for laravel application for composer version 2",
+    "keywords": [
+        "Laravel",
+        "Settings"
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hemarao\\LaravelSettings\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hemaro",
+            "email": "hemaro@aistechnolabs.biz"
+        }
+    ],
+    "minimum-stability": "stable"
+}
