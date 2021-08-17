@@ -1,6 +1,6 @@
 <?php
 
-namespace Hemarao\LaravelSettings\App\Http\Controllers;
+namespace Hemarao\LaravelSettings;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
