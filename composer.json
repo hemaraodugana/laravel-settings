@@ -24,10 +24,10 @@
     "extra": {
     "laravel": {
       "providers": [
-        "PREPR\\Settings\\App\\Providers\\SettingServiceProvider"
+        "HEMARAO\\Settings\\App\\Providers\\SettingServiceProvider"
       ],
       "aliases": {
-        "Settings": "PREPR\\Settings\\App\\Facades\\Setting"
+        "Settings": "HEMARAO\\Settings\\App\\Facades\\Setting"
       }
     }
   }
