@@ -11,7 +11,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Hemarao\\LaravelSettings\\": "src/"
+            "Hemarao\\Settings\\": "src/"
         }
     },
     "authors": [
