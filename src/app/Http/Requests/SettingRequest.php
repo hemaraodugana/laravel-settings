@@ -1,6 +1,6 @@
 <?php
 
-namespace HEMARAO\LaravelSettings\App\Http\Requests;
+namespace HEMARAO\Settings\App\Http\Requests;
 
 
 use Illuminate\Foundation\Http\FormRequest;
