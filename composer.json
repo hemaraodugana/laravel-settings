@@ -20,15 +20,6 @@
             "email": "hemaro@aistechnolabs.biz"
         }
     ],
-    "minimum-stability": "stable",
-    "extra": {
-        "laravel": {
-            "providers": [
-                "PREPR2\\Settings\\App\\Providers\\SettingServiceProvider"
-            ],
-            "aliases": {
-                "Settings": "PREPR2\\Settings\\App\\Facades\\Setting"
-            }
-        }
+    "minimum-stability": "stable"
     }
 }
