@@ -24,10 +24,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "PREPR2\\LaravelSettings\\App\\Providers\\SettingServiceProvider"
+                "PREPR2\\Settings\\App\\Providers\\SettingServiceProvider"
             ],
             "aliases": {
-                "Settings": "PREPR2\\LaravelSettings\\App\\Facades\\Setting"
+                "Settings": "PREPR2\\Settings\\App\\Facades\\Setting"
             }
         }
     }
