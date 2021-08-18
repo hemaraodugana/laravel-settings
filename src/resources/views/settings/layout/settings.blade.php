@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="laravel settings package">
-    <meta name="author" content="MAHARSHIABI">
+    <meta name="author" content="Hemarao">
 
     <title>Settings | {{ \Settings::get('SITE_TITLE', 'Laravel Settings') }}</title>
 

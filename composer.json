@@ -1,34 +1,34 @@
 {
-  "name": "hemarao/laravel-settings",
-  "description": "Simple Settings package for laravel application",
-  "keywords": [
-    "Laravel",
-    "Settings"
-  ],
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "hemaraodugana",
-      "email": "hemsbapu9644@gmail.com"
+    "name": "hemarao/laravelsettings",
+    "description": "Simple Settings package for laravel application for composer version 2",
+    "keywords": [
+        "Laravel",
+        "Settings"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hemarao Dugana",
+            "email": "hemsbapu9644@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hemarao\\Laravelsettings\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hemarao\\Settings\\App\\Providers\\SettingServiceProvider"
+            ],
+            "aliases": {
+                "Settings": "Hemarao\\Settings\\App\\Facades\\Setting"
+            }
+        }
     }
-  ],
-  "autoload": {
-    "psr-4": {
-      "Hemarao\\LaravelSettings\\": "src/"
-    }
-  },
-  "minimum-stability": "stable",
-  "require": {
-    "php": ">=7.2"
-  },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "Hemarao\\Settings\\App\\Providers\\SettingServiceProvider"
-      ],
-      "aliases": {
-        "Settings": "Hemarao\\Settings\\App\\Facades\\Setting"
-      }
-    }
-  }
 }
