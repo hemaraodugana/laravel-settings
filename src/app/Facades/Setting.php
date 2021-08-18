@@ -1,9 +1,9 @@
 <?php
 
-namespace Hemarao\LaravelSettings;
+namespace PREPR2\LaravelSettings\App\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Hemarao\LaravelSettings\App\SettingsHelper;
+use PREPR2\LaravelSettings\App\SettingsHelper;
 
 class Setting extends Facade
 {
