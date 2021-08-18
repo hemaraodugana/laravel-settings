@@ -1,6 +1,6 @@
 <?php
 
-namespace PREPR2\Settings\App\Http\Controllers;
+namespace Prepr2\Settings\App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

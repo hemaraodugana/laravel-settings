@@ -1,6 +1,6 @@
 <?php
 
-namespace PREPR2\Settings\App;
+namespace Prepr2\Settings\App;
 
 use Illuminate\Database\Eloquent\Model;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace PREPR2\Settings\App\Providers;
+namespace Prepr2\Settings\App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
