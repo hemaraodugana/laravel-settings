@@ -1,6 +1,6 @@
 <?php
 
-namespace Prepr2\LaravelSettings\App;
+namespace HEMARAO\Settings\App;
 
 class SettingsHelper
 {

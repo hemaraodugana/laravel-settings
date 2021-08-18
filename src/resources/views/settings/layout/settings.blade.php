@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="laravel settings package">
-    <meta name="author" content="PREPR">
+    <meta name="author" content="MAHARSHIABI">
 
     <title>Settings | {{ \Settings::get('SITE_TITLE', 'Laravel Settings') }}</title>
 
@@ -23,23 +23,7 @@
             'csrfToken' => csrf_token(),
         ]) !!};
     </script>
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-82436522-3', 'auto');
-        ga('send', 'pageview');
-
-    </script>
+  
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -80,7 +64,7 @@
             <!-- Left Side Of Navbar -->
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="https://github.com/PREPR/laravel-settings" target="_blank">
+                    <a href="https://github.com/maharshi-abi/laravel-settings" target="_blank">
                         <i class="fa fa-github" aria-hidden="true"></i> Documentation
                     </a>
                 </li>
