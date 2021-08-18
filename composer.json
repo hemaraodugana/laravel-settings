@@ -7,7 +7,7 @@
         "Settings"
     ],
     "require": {
-        "php": ">=7.2"
+        "php": ">=5.6.4"
     },
     "license": "MIT",
     "autoload": {
