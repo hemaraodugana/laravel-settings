@@ -1,6 +1,6 @@
 <?php
 
-namespace hemarao\laravelsettings\app\providers;
+namespace hemarao\laravelsettings\app\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
