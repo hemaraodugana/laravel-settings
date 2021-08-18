@@ -64,7 +64,7 @@
             <!-- Left Side Of Navbar -->
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="https://github.com/maharshi-abi/laravel-settings" target="_blank">
+                    <a href="https://github.com/hemaraodugana/laravel-settings.git" target="_blank">
                         <i class="fa fa-github" aria-hidden="true"></i> Documentation
                     </a>
                 </li>

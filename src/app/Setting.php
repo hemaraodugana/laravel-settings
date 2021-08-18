@@ -1,6 +1,6 @@
 <?php
 
-namespace hemarao\laravelsettings\app;
+namespace Hemarao\Settings\App;
 
 use Illuminate\Database\Eloquent\Model;
 
