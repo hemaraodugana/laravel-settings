@@ -24,10 +24,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Hemarao\\Settings\\App\\Providers\\SettingServiceProvider"
+                "Hemarao\\Laravelsettings\\App\\Providers\\SettingServiceProvider"
             ],
             "aliases": {
-                "Settings": "Hemarao\\Settings\\App\\Facades\\Setting"
+                "Settings": "Hemarao\\Laravelsettings\\App\\Facades\\Setting"
             }
         }
     }
