@@ -1,6 +1,6 @@
 <?php
 
-namespace Prepr2\Settings\App;
+namespace Prepr2\LaravelSettings\App;
 
 class SettingsHelper
 {

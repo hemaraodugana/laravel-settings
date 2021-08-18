@@ -11,7 +11,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Prepr2\\Settings\\": "src/"
+            "Prepr2\\LaravelSettings\\": "src/"
         }
     },
     "authors": [

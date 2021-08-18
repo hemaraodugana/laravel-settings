@@ -1,6 +1,6 @@
 <?php
 
-namespace Prepr2\Settings\App\Facades;
+namespace Prepr2\LaravelSettings\App\Facades;
 
 use Illuminate\Support\Facades\Facade;
 use PREPR2\Settings\App\SettingsHelper;
