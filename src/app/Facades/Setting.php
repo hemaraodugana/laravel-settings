@@ -3,7 +3,7 @@
 namespace hemarao\laravelsettings\app\facades;
 
 use Illuminate\Support\Facades\Facade;
-use Hemarao\Laravelsettings\App\SettingsHelper;
+use hemarao\laravelsettings\app\SettingsHelper;
 
 class Setting extends Facade
 {
