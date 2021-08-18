@@ -1,6 +1,6 @@
 <?php
 
-namespace Hemarao\Settings\App\Facades;
+namespace Hemarao\LaravelSettings\App\Facades;
 
 use Illuminate\Support\Facades\Facade;
 use Hemarao\Settings\App\SettingsHelper;
