@@ -1,6 +1,6 @@
 <?php
 
-namespace PREPR2\LaravelSettings\App\Http\Requests;
+namespace PREPR2\Settings\App\Http\Requests;
 
 
 use Illuminate\Foundation\Http\FormRequest;

@@ -1,9 +1,9 @@
 <?php
 
-namespace PREPR2\LaravelSettings\App\Facades;
+namespace PREPR2\Settings\App\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use PREPR2\LaravelSettings\App\SettingsHelper;
+use PREPR2\Settings\App\SettingsHelper;
 
 class Setting extends Facade
 {
