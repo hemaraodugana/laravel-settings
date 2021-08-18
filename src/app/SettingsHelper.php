@@ -1,6 +1,6 @@
 <?php
 
-namespace HEMARAO\Settings\App;
+namespace Hemarao\Settings\App;
 
 class SettingsHelper
 {

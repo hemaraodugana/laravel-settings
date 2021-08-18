@@ -29,7 +29,7 @@ add your new provider to the providers array:
 ```
 'providers' => [
     // ...
-   	\HEMARAO\Settings\App\Providers\SettingServiceProvider::class
+   	\Hemarao\Settings\App\Providers\SettingServiceProvider::class
     // ...
   ],
 ```
@@ -39,7 +39,7 @@ add your new provider to the providers array:
 ```
 'aliases' => [
 	// ...
-	'Settings' => \HEMARAO\Settings\App\Facades\Setting::class
+	'Settings' => \Hemarao\Settings\App\Facades\Setting::class
     // ...
 ],
 ```

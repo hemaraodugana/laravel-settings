@@ -1,6 +1,6 @@
 <?php
 
-namespace HEMARAO\Settings\App;
+namespace Hemarao\Settings\App;
 
 use Illuminate\Database\Eloquent\Model;
 
