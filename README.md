@@ -5,7 +5,7 @@
 
 A Laravel package that provides laravel applications settings module which needed in every application.
 
-Supports laravel >= 7.2
+Supports PHP >= 7.2
 
 ## Installation
 
