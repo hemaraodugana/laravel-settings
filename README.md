@@ -29,7 +29,7 @@ add your new provider to the providers array:
 ```
 'providers' => [
     // ...
-   	\Hemarao\Laravelsettings\App\Providers\SettingServiceProvider::class
+   	\Hemarao\Laravelsettings\app\Providers\SettingServiceProvider::class
     // ...
   ],
 ```
@@ -39,7 +39,7 @@ add your new provider to the providers array:
 ```
 'aliases' => [
 	// ...
-	'Settings' => \Hemarao\Laravelsettings\App\Facades\Setting::class
+	'Settings' => \Hemarao\Laravelsettings\app\Facades\Setting::class
     // ...
 ],
 ```

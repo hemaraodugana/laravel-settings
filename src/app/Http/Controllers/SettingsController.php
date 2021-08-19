@@ -1,12 +1,12 @@
 <?php
 
-namespace Hemarao\Laravelsettings\App\Http\Controllers;
+namespace Hemarao\Laravelsettings\app\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
-use Hemarao\Laravelsettings\App\Http\Requests\SettingRequest;
-use Hemarao\Laravelsettings\App\Setting;
+use Hemarao\Laravelsettings\app\Http\Requests\SettingRequest;
+use Hemarao\Laravelsettings\app\Setting;
 
 class SettingsController extends Controller
 {
