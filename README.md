@@ -14,7 +14,7 @@ Supports PHP >= 7.2
 Add the following to your composer file.
 
 `
-"hemarao/laravel-settings": "dev-master"
+"hemarao/laravel-settings": "3.0"
 `
 
 or run the following command:
